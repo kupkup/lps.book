@@ -5,7 +5,7 @@
 - 作者： 吴江涛
 - https://kupkup.github.io/lps.book
 
-![logo](/zh-cn/images/LonLogo_64px.png)
+![logo](/zh-cn/Images/LonLogo_64px.png)
 
 > [开始](/zh-cn/1.系统介绍)
 
