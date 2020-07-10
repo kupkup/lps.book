@@ -1,3 +1,9 @@
-﻿# Headline
+﻿# 巡检机器人软件平台设计
+> - https://kupkup.github.io/lps.book
 
-> An awesome project.
+
+> - 作者： 吴江涛
+> - 创建时间： 2020/7/1
+> - 修改时间： 2020/7/9
+
+
